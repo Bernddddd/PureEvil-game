@@ -520,4 +520,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  health: 100
   rb: {fileID: 0}
+  movement: {x: 0, y: 0}
